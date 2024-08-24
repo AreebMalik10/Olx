@@ -1,0 +1,26 @@
+.login-button {
+    width: 100%; /* Set the width to 100% to make both buttons fill the same width */
+    padding: 10px 20px; /* Adjust padding to increase button size */
+    font-weight: bold; /* Make text bold */
+    border-radius: 30px;
+    /* Add any additional styling to enhance the button appearance */
+  }
+
+  .CreateAccount-button {
+    width: 100%;
+    padding: 10px 20px;
+    font-weight: bold;
+    
+    color: white; /* Set text color to white for better contrast */
+    border: none; /* Remove default button border */
+    border-radius: 30px; /* Add rounded corners to the button */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+
+  .Signin-button {
+    width: 100%;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 30px;
+  }

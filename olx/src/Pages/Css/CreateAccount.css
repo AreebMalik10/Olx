@@ -1,0 +1,34 @@
+.modal-header-custom {
+    display: flex;
+    justify-content: center; /* Center the logo horizontally */
+    align-items: center;
+    position: relative; /* Position relative for close button */
+  }
+  
+  .modal-logo {
+    width: 50px; /* Adjust size as needed */
+    height: auto;
+  }
+  
+  .modal-close-button {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%); /* Center vertically */
+  }
+  
+  .modal-title-left {
+    width: 100%;
+    text-align: left;
+    padding-left: 15px;
+  }
+  
+  
+  
+/* Style for the submit button container */
+.submit-button-container {
+    margin-top: 20px; /* Adjust the gap as needed */
+    display: flex;
+    justify-content: center;
+  }
+  
